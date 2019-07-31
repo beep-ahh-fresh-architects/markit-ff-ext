@@ -1,0 +1,20 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.trailingComma": "es5",
+  "prettier.singleQuote": true,
+  "prettier.tslintIntegration": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#89f556",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#6996f6",
+    "activityBarBadge.foreground": "#15202b",
+    "titleBar.activeBackground": "#67f226",
+    "titleBar.inactiveBackground": "#67f22699",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveForeground": "#15202b99",
+    "statusBar.background": "#67f226",
+    "statusBarItem.hoverBackground": "#4ed80d",
+    "statusBar.foreground": "#15202b"
+  }
+}
